@@ -1,0 +1,43 @@
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\bin\Debug\player_log.ldf
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\bin\Debug\team.mdf
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\bin\Debug\team_log.ldf
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\bin\Debug\player.mdf
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\bin\Debug\kimi.exe.config
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\bin\Debug\kimi.exe
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\bin\Debug\kimi.pdb
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\mosabeghat football.csproj.SuggestedBindingRedirects.cache
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.chart.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.Form1.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.Kholase.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.List.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.Match.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.mosabeghe.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.Properties.Resources.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.sabtBaziKon.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.sabtteam.resources
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\mosabeghat football.csproj.GenerateResource.cache
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\mosabeghat football.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.exe
+C:\Users\Parham\Downloads\New folder (10)\kimi\kimi\obj\Debug\kimi.pdb
+D:\Project\kimi\kimi\kimi\bin\Debug\player_log.ldf
+D:\Project\kimi\kimi\kimi\bin\Debug\team.mdf
+D:\Project\kimi\kimi\kimi\bin\Debug\team_log.ldf
+D:\Project\kimi\kimi\kimi\bin\Debug\player.mdf
+D:\Project\kimi\kimi\kimi\bin\Debug\kimi.exe.config
+D:\Project\kimi\kimi\kimi\bin\Debug\kimi.exe
+D:\Project\kimi\kimi\kimi\bin\Debug\kimi.pdb
+D:\Project\kimi\kimi\kimi\obj\Debug\mosabeghat football.csproj.AssemblyReference.cache
+D:\Project\kimi\kimi\kimi\obj\Debug\mosabeghat football.csproj.SuggestedBindingRedirects.cache
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.chart.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.Form1.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.Kholase.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.List.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.Match.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.mosabeghe.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.Properties.Resources.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.sabtBaziKon.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.sabtteam.resources
+D:\Project\kimi\kimi\kimi\obj\Debug\mosabeghat football.csproj.GenerateResource.cache
+D:\Project\kimi\kimi\kimi\obj\Debug\mosabeghat football.csproj.CoreCompileInputs.cache
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.exe
+D:\Project\kimi\kimi\kimi\obj\Debug\kimi.pdb
